@@ -1,6 +1,10 @@
 # 77 DSA Problem
 This Repository Help to crack every DSA pattern questions hole Life learn a programmer
 
+This repository contains 77 DSA problems with their video solutions and approach notes. Each problem is categorized by its data structure or algorithm type, making it easier to navigate and study specific topics.
+
+Programming Languaage: Python 
+
 | # | Video Solution | Category | Name | Link | Notes |
 |----|----------------|----------|------|------|-------|
 | 1 | [Watch Video](https://youtu.be/KLlXCFG5TnA) | Arrays | Two Sum | [LeetCode](https://leetcode.com/problems/two-sum/) | use hash map to instantly check for difference value, map will add index of last occurrence of a num, don't use same element twice; |
